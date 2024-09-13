@@ -1,4 +1,0 @@
-﻿  SetByCriteria.cpp
-C:\Users\hrisi\source\repos\OOP\задачи от лекции\l10\l10\SetByCriteria.cpp(12,19): warning C4018: '<=': signed/unsigned mismatch
-C:\Users\hrisi\source\repos\OOP\задачи от лекции\l10\l10\SetByCriteria.cpp(23,19): warning C4018: '<=': signed/unsigned mismatch
-  l10.vcxproj -> C:\Users\hrisi\source\repos\OOP\задачи от лекции\l10\x64\Debug\l10.exe
