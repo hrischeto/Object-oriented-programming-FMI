@@ -1,0 +1,5 @@
+﻿  StringPool.cpp
+C:\Users\hrisi\source\repos\OOP\задачи от лекции\l7\l7\StringPool.cpp(108,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hrisi\source\repos\OOP\задачи от лекции\l7\l7\StringPool.cpp(137,17): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\hrisi\source\repos\OOP\задачи от лекции\l7\l7\StringPool.cpp(226,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  l7.vcxproj -> C:\Users\hrisi\source\repos\OOP\задачи от лекции\l7\x64\Debug\l7.exe

@@ -1,0 +1,7 @@
+﻿  FlightsScanner.cpp
+C:\Users\hrisi\source\repos\OOP\задачи от лекции\l8\FlightsScanner\FlightsScanner.cpp(40,30): warning C4101: 'e': unreferenced local variable
+C:\Users\hrisi\source\repos\OOP\задачи от лекции\l8\FlightsScanner\FlightsScanner.cpp(54,31): warning C4101: 'exc': unreferenced local variable
+C:\Users\hrisi\source\repos\OOP\задачи от лекции\l8\FlightsScanner\FlightsScanner.cpp(68,30): warning C4101: 'e': unreferenced local variable
+  Utils.cpp
+  Generating Code...
+  FlightsScanner.vcxproj -> C:\Users\hrisi\source\repos\OOP\задачи от лекции\l8\x64\Debug\FlightsScanner.exe
