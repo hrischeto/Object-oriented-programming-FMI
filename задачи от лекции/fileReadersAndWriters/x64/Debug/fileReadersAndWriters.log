@@ -1,0 +1,9 @@
+﻿  main.cpp
+  MyString.cpp
+C:\Users\hrisi\source\repos\OOP\задачи от лекции\l11\fileReadersAndWriters\MyString.cpp(26,29): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\hrisi\source\repos\OOP\задачи от лекции\l11\fileReadersAndWriters\MyString.cpp(70,40): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\hrisi\source\repos\OOP\задачи от лекции\l11\fileReadersAndWriters\MyString.cpp(125,35): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\hrisi\source\repos\OOP\задачи от лекции\l11\fileReadersAndWriters\MyString.cpp(134,30): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  stringView.cpp
+  Generating Code...
+  fileReadersAndWriters.vcxproj -> C:\Users\hrisi\source\repos\OOP\задачи от лекции\l11\x64\Debug\fileReadersAndWriters.exe
