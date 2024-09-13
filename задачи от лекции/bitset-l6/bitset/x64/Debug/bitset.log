@@ -1,0 +1,10 @@
+﻿  bitset.cpp
+C:\Users\hrisi\source\repos\OOP\задачи от лекции\bitset-l6\bitset\bitset.cpp(89,19): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\hrisi\source\repos\OOP\задачи от лекции\bitset-l6\bitset\bitset.cpp(98,19): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\hrisi\source\repos\OOP\задачи от лекции\bitset-l6\bitset\bitset.cpp(144,42): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\hrisi\source\repos\OOP\задачи от лекции\bitset-l6\bitset\bitset.cpp(161,41): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\hrisi\source\repos\OOP\задачи от лекции\bitset-l6\bitset\bitset.cpp(174,27): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\hrisi\source\repos\OOP\задачи от лекции\bitset-l6\bitset\bitset.cpp(175,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hrisi\source\repos\OOP\задачи от лекции\bitset-l6\bitset\bitset.cpp(189,27): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\hrisi\source\repos\OOP\задачи от лекции\bitset-l6\bitset\bitset.cpp(190,20): warning C4018: '<': signed/unsigned mismatch
+  bitset.vcxproj -> C:\Users\hrisi\source\repos\OOP\задачи от лекции\bitset-l6\x64\Debug\bitset.exe
